@@ -1,4 +1,4 @@
-# Esse repositorio é uma api Chamado myContant feito atraves do curso JStack 
+# My Contant
 
 <p align="center">
   <a href="#-tecnologias">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -22,7 +22,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Esse projeto foi construído para servir de apoio no estudo de consumo de APIs REST
+Esse repositorio é uma api Chamado myContant feito atraves do curso JStack 
 
 
 
